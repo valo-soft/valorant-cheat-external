@@ -1,3 +1,4 @@
 # Ideas
 Update dependency versions
 Update deletion logs
+Check breaking changes
