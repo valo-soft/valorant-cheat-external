@@ -1,2 +1,3 @@
 # Ideas
 Update dependency versions
+Update deletion logs
